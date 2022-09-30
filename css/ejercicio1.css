@@ -1,0 +1,60 @@
+.contenedor{
+    width:345px;
+}
+
+.imgP{
+    width: 40%;
+    margin: 0 auto;
+    margin-top: -5%;
+}
+
+#enunciado{
+    margin-top: 3%;
+}
+.input[type=text] {
+    background-color: #ffffff;
+    border: none;
+    color: black;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    -webkit-box-shadow: 0 10px 30px 0 #5692ed;
+    box-shadow: 0 10px 30px 0 #56b1ed;
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    margin: 5px 20px 40px 20px;
+    width: 85%;
+    margin-left: 10%;
+}
+
+.button{
+    background-color: #287bff;
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 13px;
+    -webkit-box-shadow: 0 10px 30px 0 hsla(214, 71%, 38%, 0.479);
+    box-shadow: 0 10px 30px 0 hsla(214, 81%, 63%, 0.623);
+    -webkit-border-radius: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px;
+    margin: 5px 20px 40px 20px;
+    width: 85%;
+    margin-left: 10%;
+    
+}
+.toggle
+{
+    position: relative;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2.5em;
+    cursor: pointer;
+}
